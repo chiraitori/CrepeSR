@@ -1,3 +1,3 @@
 # CrepeSR
- For Honkai SR
-## Thank memetrollsXD and GanyusLeftHorn
+
+[Discord](https://discord.gg/KA4HqktWYG)

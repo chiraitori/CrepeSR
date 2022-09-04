@@ -28,7 +28,7 @@ const DEFAULT_CONFIG = {
         MAINTENANCE: false,
         MAINTENANCE_MSG: "Server is in maintenance mode."
     },
-    AUTO_ACCOUNT: false
+    AUTO_ACCOUNT: true
 }
 type DefaultConfig = typeof DEFAULT_CONFIG;
 
